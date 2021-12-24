@@ -13,22 +13,15 @@
 
 
 
+ function sum(int ...$number):int{
+        $result = 0;
+        for($i=0 ; $i<count($number) ; $i++){
+            $result+=$number[$i];
+        }
+        return $result;
+    }
 
-
-
-
-
-
-
- // function sum(int ...$number):int{
-    //     $result = 0;
-    //     for($i=0 ; $i<count($number) ; $i++){
-    //         $result+=$number[$i];
-    //     }
-    //     return $result;
-    // }
-
-    // echo "The result is => ".sum(8,9,7,5);
+    echo "The result is => ".sum(8,9,7,5,5);
 
 
 ?>

@@ -17,4 +17,4 @@
         $start++;
         sum($start,$end);
     }
-    sum(20,10);
+   echo sum(10,20);
