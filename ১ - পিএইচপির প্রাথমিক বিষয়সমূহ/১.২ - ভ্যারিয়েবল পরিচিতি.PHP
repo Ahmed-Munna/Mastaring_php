@@ -7,12 +7,8 @@
     echo "\n";
     $a = "Bangladesh";
     echo "we love {$a}";
-    echo ""
+    echo "love you {$a}";
 ?>
-
-
-
-
 
 
 
