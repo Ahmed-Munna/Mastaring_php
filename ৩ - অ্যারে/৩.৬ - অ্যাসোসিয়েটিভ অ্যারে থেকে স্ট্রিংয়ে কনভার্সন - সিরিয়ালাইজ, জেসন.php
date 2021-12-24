@@ -3,7 +3,7 @@
 
     $team = [
         "Bangladesh" => "Tamim,Musfiq,Sakib,Masrafe",
-        "Barishal"   => "Dabu,Munna,Emon,Birnto",
+        "Barishal"   => "Dabu,Atik,Jahid,joy,Onik,Munna,Emon,Birnto",
         "Dhaka"      => "Ratul,Omi,Morsalin"
     ];
 
