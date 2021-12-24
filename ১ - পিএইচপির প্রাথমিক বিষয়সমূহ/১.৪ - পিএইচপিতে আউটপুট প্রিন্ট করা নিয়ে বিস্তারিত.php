@@ -5,5 +5,6 @@
 
     printf("His Full%s is : %s %s","name",$fname,$lname)."\n";
 
-    printf("His Full%s is : %s %s","name",strtoupper($fname),strrev($lname));
+    printf("\nHis Full%s is : %s %s","name",strtoupper($fname),strrev($lname));
 
+    printf("\nHis Name is : %s %s",$fname,$lname);
